@@ -36,6 +36,8 @@ display: inline-block;}
 	width: 230px; height:230px; }
 
 .contact-me{ background: url(../images/tile2.png); }
-.contact-me h2 { margin:40px auto 10px;}
+.contact-me h2 { margin:40px auto 5px;}
+.contact-me ul{ margin: 30px auto;}
+.contact-me li{ margin: 15px }
 /*.contac-me ul{ margin-bottom: 200px; }*/
 /*.contact-me { padding: 20px auto; }*/
